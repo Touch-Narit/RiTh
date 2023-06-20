@@ -44,7 +44,7 @@
 
 <br>
 <a href="https://github.com/Touch-Narit">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manethpak&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NaRiTh&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true">
 </a>
 <br><br>
 <a href="https://github.com/remcohalman/github-readme-stats">
@@ -53,7 +53,7 @@
 <br>
 <br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manethpak&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaRiTh&theme=dark)](https://git.io/streak-stats)
 
 </div>
 </div>
