@@ -1,6 +1,3 @@
-# RiTh
-
-
 <div style="background-color:#121212">
 <div style="color:#fff">
   
