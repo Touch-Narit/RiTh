@@ -10,7 +10,7 @@
 ### A electronic and automation engineering student trying his best to live his dream<br>
 
 - I’m currently pursuing **Bachelor Degree in Electrical Engineering at [Institute of Technology of Cambodia](https://itc.edu.kh/).** <br>
-- I’m currently learning **Fullstack Web Development, DSA for Competitive Programming, Blockchian development** <br>
+- I’m currently learning **Fullstack Moblie Development, IoT ** <br>
 - I’m looking to collaborate on **Any project** <br>
 - 2022 Goals: <s>**Secure an Internship with big tech company.**</s> <br>
 - 2023 Goals: Survive
